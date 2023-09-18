@@ -1,0 +1,11 @@
+/* ItemArray.css */
+.item-array-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Create 5 columns */
+    gap: 20px; /* Adjust the gap between items as needed */
+    margin-bottom: 20px; /* Add space between rows of item arrays */
+}
+
+.item-array {
+    /* Add your styling for each item if needed */
+}
