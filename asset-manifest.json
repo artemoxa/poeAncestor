@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poeAncestor/static/css/main.099ab392.css",
-    "main.js": "/poeAncestor/static/js/main.2abf7e5c.js",
+    "main.css": "/poeAncestor/static/css/main.f9e946b3.css",
+    "main.js": "/poeAncestor/static/js/main.6c63dec6.js",
     "static/js/787.c7c58086.chunk.js": "/poeAncestor/static/js/787.c7c58086.chunk.js",
     "index.html": "/poeAncestor/index.html",
-    "main.099ab392.css.map": "/poeAncestor/static/css/main.099ab392.css.map",
-    "main.2abf7e5c.js.map": "/poeAncestor/static/js/main.2abf7e5c.js.map",
+    "main.f9e946b3.css.map": "/poeAncestor/static/css/main.f9e946b3.css.map",
+    "main.6c63dec6.js.map": "/poeAncestor/static/js/main.6c63dec6.js.map",
     "787.c7c58086.chunk.js.map": "/poeAncestor/static/js/787.c7c58086.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.099ab392.css",
-    "static/js/main.2abf7e5c.js"
+    "static/css/main.f9e946b3.css",
+    "static/js/main.6c63dec6.js"
   ]
 }
